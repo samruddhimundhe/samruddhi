@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Resume</title>
+  <title> 
+    Resume
+  </title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
     <div class="header">
-      <img src="IMG_20250129_074842.JPGalt"="Samruddhi Mundhe" class="photo">
+      <img src= "IMG_20250129_074842.JPGalt" ="Samruddhi Mundhe" class="photo">
       <h1>Samruddhi Mundhe</h1>
       <h2>Web Developer</h2>
     </div>
@@ -46,6 +48,15 @@
   <ul>
     <li>
       <h3>Winner of XYZ Coding Challenge</h3>
+      <p>Received award for outstanding coding skills in XYZ challenge.</p>
+    </li>
+    <li>
+      <h3>Certified Web Developer</h3>
+      <p>Obtained certification in web development from ABC institute.</p>
+    </li>
+  </ul>
+</div>
+```</h3>
       <p>Received award for outstanding coding skills in XYZ challenge.</p>
     </li>
     <li>
