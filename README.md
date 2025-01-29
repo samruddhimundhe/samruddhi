@@ -7,7 +7,7 @@
 <body>
   <div class="container">
     <div class="header">
-      <img src="photo.jpg" alt="Samruddhi Mundhe" class="photo">
+      <img src="IMG_20250129_074842.JPGalt"="Samruddhi Mundhe" class="photo">
       <h1>Samruddhi Mundhe</h1>
       <h2>Web Developer</h2>
     </div>
